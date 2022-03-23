@@ -1,5 +1,5 @@
 [Link](https://www.lifeder.com/wp-content/uploads/2017/03/tribus-ind%C3%ADgenas-Colombia.jpg "Título opcional del enlace").
-## Welcome to GitHub Pages
+## Welcome to GitHub
 
 You can use the [editor on GitHub](https://github.com/juanstm200/Etnia_page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
